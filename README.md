@@ -43,6 +43,7 @@ Melbourne, AR 72556
 
 ##### Deed Research
 Deeds are looked up by Book and Page.  Book and Page numbers are located during parcel research on the Assessor site.
+
 ![Deed research](./images/DeedResearch.png)
 
 **How to request deeds**
