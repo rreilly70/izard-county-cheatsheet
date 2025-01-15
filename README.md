@@ -57,7 +57,7 @@ Deeds are looked up by Book and Page.  Book and Page numbers are located during 
 |Email Address| izardcountyrecords@gmail.com|
 |Email Subject|  Deed Look Ups|
 |Email Body Template Header|  Dear County Clerk,<br><br>When time permits can you please pull me copies of the deeds for the following:<br><br>
-|Email Body Deed Request|  PARCEL 1<br>PARCEL 2<br>PARCEL N<br><br>:**See template below**
+|Email Body Deed Request|  PARCEL 1<br>PARCEL 2<br>PARCEL N<br><br>**See template below**
 |Email Footer|Regards,<br><br>{Your Name}
 
 **PARCEL DEED REQUEST TEMPLATE**
