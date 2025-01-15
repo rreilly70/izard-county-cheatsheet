@@ -61,14 +61,14 @@ Deeds are looked up by Book and Page.  Book and Page numbers are located during 
 
 **PARCEL DEED REQUEST TEMPLATE**
 
-**Owner:** {Owner1 Name} ^1^
+**Owner:** {Owner1 Name} *
 **APN:** {APN Number}
 **Parcel Address:** {Parcel Address}
 |Book|Page|
 |-----|-----|
 |XXX|YYY|
 
-**Note: ^1^** - Not sure that Owner, APN or parcel address are needed but alway better to have just in case. IMHO.
+**\*** - Not sure that Owner, APN or parcel address are needed but alway better to have just in case. IMHO.
 
 ### 
 
