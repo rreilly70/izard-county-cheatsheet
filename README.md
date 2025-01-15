@@ -63,7 +63,9 @@ Deeds are looked up by Book and Page.  Book and Page numbers are located during 
 **PARCEL DEED REQUEST TEMPLATE**
 
 **Owner:** {Owner1 Name} \*
+
 **APN:** {APN Number}
+
 **Parcel Address:** {Parcel Address}
 |Book|Page|
 |-----|-----|
