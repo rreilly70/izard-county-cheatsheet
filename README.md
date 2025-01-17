@@ -75,10 +75,91 @@ Deeds are looked up by Book and Page.  Book and Page numbers are located during 
 
 **\*** - Not sure that Owner, APN or parcel address are needed but alway better to have just in case. IMHO.
 
-### 
+#### CITY RESEARCH
 
+##### Horseshoe Bend
 
+###### Planning and Zoning and Other Information
+* Contact:  Mary 
+* Websites: 
+    * [City Hall](https://www.horseshoebend.org/city-hall.html)
+    * [City of Horseshoe Bend](https://cityofhorseshoebend.wordpress.com/)
+* Facebook Pge: 
+* Phone: 870-670-5113 
+* Email:[cityhall@cityofhorseshoebendar.gov](mailto:cityhall@cityofhorseshoebendar.gov)
 
+If you have general questions or question on zoning Mary can help.  If you need zoning info Best bet is to email her at the above email and provide here the addresses you have questions about.
+
+###### Subdivision Restrictions and Covenants
+
+* [BOA-Ben_s Creek Addition](./documents/BOA-Ben_s%20Creek%20Addition.pdf)
+* [BOA-Crown Addition](./documents/BOA-Crown%20Addition.pdf)
+* [BOA-Golf Park Second Addition](./documents/BOA-Golf%20Park%20Second%20Addition.pdf)   
+* [BOA-Lakeview](./documents/BOA-Lakeview.pdf)       
+* [BOA-Sleepy Hollow](./documents/BOA-Sleepy%20Hollow.pdf)
+* [BOA-Woodland Addition](./documents/BOA-Woodland%20Addition.pdf)
+* [BOA-Capitol Addition](./documents/BOA-Capitol%20Addition.pdf)
+* [BOA-Edge Hill](./documents/BOA-Edge%20Hill.pdf)
+* [BOA-Green Valley Addition](./documents/BOA-Green%20Valley%20Addition.pdf)
+* [BOA-Pioneer Park](./documents/BOA-Pioneer%20Park.pdf)
+* [BOA-White House Addition](./documents/BOA-White%20House%20Addition.pdf)
+* [Golf Park Second Addition](./documents/Golf%20Park%20Second%20Addition.pdf)
+
+###### Water and Sewer
+* Phone: 870-670-5885 
+* Email: [water@cityhsb.org](mailto:water@cityhsb.org)
+
+You can email water questions to the above email.
+
+###### Electricity - North Arkansas electric coop
+* Phone: 870-895-3221
+* Website: [www.naeci.com](https://www.naeci.com/)
+
+### Deed Recording Process
+
+1.  Obtain the signed and notarized deed
+2.  Go to the ATAP Site and pay the real estate transfer tax
+3.  Print out the real estate transfer tax stamp
+4.  Contact Arkansas Commissioner of State Lands and **pay any back taxes** on the parcel
+    * You can call or use website to update the parcel information to enure the release deed is sent back to county in your name.  They will need copy of your current deed and you can pay the back taxes.
+        * [COSL Website](https://www.cosl.org/Home/Search)
+        * Phone: 501-324-9422
+5.  Mail recording documents to Izard County Clerk (**See Below**)
+
+#### Mail To
+Izard County Clerk
+PO BOX 95
+Melbourne, AR 72556
+
+* Include in mail package to the County Clerk
+    * Wet Copies of the Signed and Notarized Deeds
+    * Tax Stamp - [Arkansas Taxpayer Access Point](https://atap.arkansas.gov/_/#1)
+        * You need to pay taxes on the purchase to [Purchase Real Estate Transfer Stamp](https://atap.arkansas.gov/_/#3)
+        * See below on getting set-up an account setup in the Arkansas Taxpayer Access Point Site
+    * Self addressed stamped envelope for the clerks to send your recorded deed back to you
+* Pricing
+    * $15 First page
+    * $5 each additional page
+        * **NOTE:** Tax Stamp counts as a page
+        * I need to call to see if they require you to also include trust documents when recording a sale from a trust.
+
+#### Arkansas Taxpayer Access Point Account(ATAP) set-up
+You need to set-up and account in the ATAP site to be able to pay taxes and obtain your Real Estate Tax Transfer Stamp.
+
+**NOTE:**  If you don't have an LLC set-up yet you may have to do the process twice.  Once for your personal account then again once you have all you LLC infomration.
+
+##### ATAP Onboarding process
+
+1.  Fill out the [REAL ESTATE TRANSFER STAMP REGISTRATION & UPDATE FORM](./documents/RET-Registration%20Form.pdf)
+2.  Send copy of form to [iris.slaton@dfa.arkansas.gov](mailto:iris.slaton@dfa.arkansas.gov)
+3.  Iris should get back to you in a day or two with you account information to complete the account onboarding on the site
+    * [www.atap.arkansas.gov](https://atap.arkansas.gov/) 
+        * Please follow these steps:
+            1. Click "Sign Up."
+            2. Click "Next."
+            3. Select "Administrator Login."
+
+    
 
 
 
