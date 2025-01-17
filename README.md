@@ -152,7 +152,7 @@ You need to set-up and account in the ATAP site to be able to pay taxes and obta
 
 1.  Fill out the [REAL ESTATE TRANSFER STAMP REGISTRATION & UPDATE FORM](./documents/RET-Registration%20Form.pdf)
 2.  Send copy of form to [iris.slaton@dfa.arkansas.gov](mailto:iris.slaton@dfa.arkansas.gov)
-3.  Iris should get back to you in a day or two with you account information to complete the account onboarding on the site
+3.  Iris should get back to you in a day or two with your account information to complete the account onboarding on the site
     * [www.atap.arkansas.gov](https://atap.arkansas.gov/) 
         * Please follow these steps:
             1. Click "Sign Up."
