@@ -13,14 +13,14 @@ The purpose of the is cheatsheet is to help land investors new to Izard County, 
 #### County Assessor - Phone: 870-368-7810
 * [County Assessor Site](https://www.izardcountyar.org/assessor)
 * [Parcel Research](https://www.actdatascout.com/TaxCollector/Arkansas/Izard)
-    -**Make sure to select Real Estate Tab**
+    * **Make sure to select Real Estate Tab**
 
 ![Assessor Tab](./images/taxCollector1.png)
 
 #### Tax Collector - Phone: 870-368-7247
 * [Tax Collector Site](https://www.izardcountyar.org/tax-collector)
 * [Parcel Tax Research](https://www.actdatascout.com/TaxCollector/Arkansas/Izard)
-    -**Make sure to select Tax Records/Pay Taxes Tab**
+    * **Make sure to select Tax Records/Pay Taxes Tab**
 
 ![Tax Collector Tab](./images/taxCollector2.png)
 
