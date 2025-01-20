@@ -82,7 +82,7 @@ Deeds are looked up by Book and Page.  Book and Page numbers are located during 
 ###### Business License Requirement
 Horseshoe Bend requires you to obtain a City Business License.  This license can be obtained by filling out the following form:
 
-* [APPLICATION FOR CITY BUSINESS LICENSE](./documents/BusinessAppHSB.pdf)
+* [APPLICATION FOR CITY BUSINESS LICENSE](https://cityofhorseshoebend.wordpress.com/wp-content/uploads/2018/11/bus_lic_app.pdf)
 
 
 ###### Planning and Zoning and Other Information
