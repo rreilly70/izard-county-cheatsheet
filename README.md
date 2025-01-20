@@ -79,6 +79,12 @@ Deeds are looked up by Book and Page.  Book and Page numbers are located during 
 
 ##### Horseshoe Bend
 
+###### Business License Requirement
+Horseshoe Bend requires you to obtain a City Business License.  This license can be obtained by filling out the following form:
+
+* [APPLICATION FOR CITY BUSINESS LICENSE](./documents/BusinessAppHSB.pdf)
+
+
 ###### Planning and Zoning and Other Information
 * Contact:  Mary 
 * Websites: 
@@ -92,18 +98,7 @@ If you have general questions or question on zoning Mary can help.  If you need 
 
 ###### Subdivision Restrictions and Covenants
 
-* [BOA-Ben_s Creek Addition](./documents/BOA-Ben_s%20Creek%20Addition.pdf)
-* [BOA-Crown Addition](./documents/BOA-Crown%20Addition.pdf)
-* [BOA-Golf Park Second Addition](./documents/BOA-Golf%20Park%20Second%20Addition.pdf)   
-* [BOA-Lakeview](./documents/BOA-Lakeview.pdf)       
-* [BOA-Sleepy Hollow](./documents/BOA-Sleepy%20Hollow.pdf)
-* [BOA-Woodland Addition](./documents/BOA-Woodland%20Addition.pdf)
-* [BOA-Capitol Addition](./documents/BOA-Capitol%20Addition.pdf)
-* [BOA-Edge Hill](./documents/BOA-Edge%20Hill.pdf)
-* [BOA-Green Valley Addition](./documents/BOA-Green%20Valley%20Addition.pdf)
-* [BOA-Pioneer Park](./documents/BOA-Pioneer%20Park.pdf)
-* [BOA-White House Addition](./documents/BOA-White%20House%20Addition.pdf)
-* [Golf Park Second Addition](./documents/Golf%20Park%20Second%20Addition.pdf)
+* [Horseshoe Bend Bills of Assurance](https://hbarfoia.org/property-deed-bldg-permits-etc)
 
 ###### Water and Sewer
 * Phone: 870-670-5885 
