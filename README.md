@@ -7,7 +7,6 @@ The purpose of the is cheatsheet is to help land investors new to Izard County, 
 
 ### General 
 * [Izard County Website](https://www.izardcountyar.org/)
-
 ### Due Diligence
 
 #### County Assessor - Phone: 870-368-7810
@@ -90,9 +89,9 @@ Horseshoe Bend requires you to obtain a City Business License.  This license can
 * Websites: 
     * [City Hall](https://www.horseshoebend.org/city-hall.html)
     * [City of Horseshoe Bend](https://cityofhorseshoebend.wordpress.com/)
-* Facebook Pge: 
+* [City of Horseshoe Bend Facebook Page](https://www.facebook.com/cityhsb/) 
 * Phone: 870-670-5113 
-* Email:[cityhall@cityofhorseshoebendar.gov](mailto:cityhall@cityofhorseshoebendar.gov)
+* Email: cityhall@cityofhorseshoebendar.gov
 
 If you have general questions or question on zoning Mary can help.  If you need zoning info Best bet is to email her at the above email and provide here the addresses you have questions about.
 
