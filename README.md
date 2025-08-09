@@ -121,13 +121,13 @@ You can email water questions to the above email.
         * Phone: 501-324-9422
 5.  Mail recording documents to Izard County Clerk (**See Below**)
    
-**######################################################################################**
+**########################################################**
 #### New ID requirement as of 8/5/2025
-**##################################### BEGIN ##########################################**
+**###################### BEGIN ############################**
 
 According to **Act 752 of 2025**, passed by the Arkansas General Assembly, the person who signed on behalf of the grantor must prove their identity by presenting with the deed a valid government-issued photo identification card or driver's license if recording in person, or enclose a photocopy of a valid identification card or driver's license if recording by mait.
 
-Deeds recorded in person or by mai[ that are not accompanied by an identification card or driver's license proving the identity of the grantor or person who signed the deed on behalf of the grantor will be rejected.
+Deeds recorded in person or by mail that are not accompanied by an identification card or driver's license proving the identity of the grantor or person who signed the deed on behalf of the grantor will be rejected.
 
 This requirement does not apply to:
 
@@ -152,7 +152,7 @@ Deeds recorded by:
 **Not confirmed for Izard County, AR** but other counties in AR state copies of IDs will be kept under seal and never available to the public. 
 * Contact Izard County Clerk to confirm.
 
-**##################################### END ##########################################**
+**######################### END #################################**
 
 #### Mail To
 Izard County Clerk
