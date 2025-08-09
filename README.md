@@ -151,6 +151,7 @@ Deeds recorded by:
 
 Not confirmed for Izard County, Ar but other counties Ar state copies of IDs will be kept under seal and never available to the public. 
 * Contact Izard County Clerk to confirm.
+
 **##################################### END ##########################################**
 
 #### Mail To
