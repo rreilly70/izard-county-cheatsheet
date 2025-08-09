@@ -120,8 +120,10 @@ You can email water questions to the above email.
         * [COSL Website](https://www.cosl.org/Home/Search)
         * Phone: 501-324-9422
 5.  Mail recording documents to Izard County Clerk (**See Below**)
-
+   
+**######################################################################################**
 #### New ID requirement as of 8/5/2025
+** ######################################################################################**
 According to **Act 752 of 2025**, passed by the Arkansas General Assembly, the person who signed on behalf of the grantor must prove their identity by presenting with the deed a valid government-issued photo identification card or driver's license if recording in person, or enclose a photocopy of a valid identification card or driver's license if recording by mait.
 
 Deeds recorded in person or by mai[ that are not accompanied by an identification card or driver's license proving the identity of the grantor or person who signed the deed on behalf of the grantor will be rejected.
