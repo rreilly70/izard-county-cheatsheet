@@ -112,6 +112,7 @@ You can email water questions to the above email.
 ### Deed Recording Process
 
 1.  Obtain the signed and notarized deed
+2.  A copy of a valid government-issued photo identification card or driver's license for the Grantor or person who sighned on behalf of the Grantor **(SEE NOTE BELOW)**
 2.  Go to the ATAP Site and pay the real estate transfer tax
 3.  Print out the real estate transfer tax stamp
 4.  Contact Arkansas Commissioner of State Lands and **pay any back taxes** on the parcel
@@ -119,6 +120,35 @@ You can email water questions to the above email.
         * [COSL Website](https://www.cosl.org/Home/Search)
         * Phone: 501-324-9422
 5.  Mail recording documents to Izard County Clerk (**See Below**)
+
+#### New ID requirement as of 8/5/2025
+According to **Act 752 of 2025**, passed by the Arkansas General Assembly, the person who signed on behalf of the grantor must prove their identity by presenting with the deed a valid government-issued photo identification card or driver's license if recording in person, or enclose a photocopy of a valid identification card or driver's license if recording by mait.
+
+Deeds recorded in person or by mai[ that are not accompanied by an identification card or driver's license proving the identity of the grantor or person who signed the deed on behalf of the grantor will be rejected.
+
+This requirement does not apply to:
+
+Deeds that are electronically recorded through the county's e-recording system or
+
+Deeds recorded by:
+
+* An attorney
+
+* Real estate broker or agent
+
+* Representative of a bank, mortgage company, or lending institution
+
+* Title insurance agent, agency, or person affiliated with a title insurance agency
+
+* The Commissioner of State Lands
+
+* A person representing the state or a political subdivision of the state
+
+* The state, an Arkansas municipality or political subdivision of the state.
+
+Not confirmed for Izard County, Ar but other counties Ar state copies of IDs will be kept under seal and never available to the public. 
+* Contact Izard County Clerk to confirm.
+
 
 #### Mail To
 Izard County Clerk
