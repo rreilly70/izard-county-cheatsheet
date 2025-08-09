@@ -149,7 +149,7 @@ Deeds recorded by:
 
 * The state, an Arkansas municipality or political subdivision of the state.
 
-Not confirmed for Izard County, Ar but other counties Ar state copies of IDs will be kept under seal and never available to the public. 
+**Not confirmed for Izard County, AR** but other counties in AR state copies of IDs will be kept under seal and never available to the public. 
 * Contact Izard County Clerk to confirm.
 
 **##################################### END ##########################################**
