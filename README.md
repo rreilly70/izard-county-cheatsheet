@@ -101,13 +101,17 @@ If you have general questions or question on zoning Mary can help.  If you need 
 
 ###### Water and Sewer
 * Phone: 870-670-5885 
-* Email: [water@cityhsb.org](mailto:water@cityhsb.org)
+* Email: [water@cityofhorseshoebendar.gov](mailto:water@cityofhorseshoebendar.gov)
 
 You can email water questions to the above email.
 
 ###### Electricity - North Arkansas electric coop
 * Phone: 870-895-3221
 * Website: [www.naeci.com](https://www.naeci.com/)
+
+###### State Health Department
+* Phone: ​870-368-7790
+* Email: [shawn.mckinney@arkansas.gov](mailto:shawn.mckinney@arkansas.gov)
 
 ### Deed Recording Process
 
