@@ -50,8 +50,8 @@ Deeds are looked up by Book and Page.  Book and Page numbers are located during 
 **How to request deeds**
  
 * Method 1 - Call the clerks office and ask for deed by book and page.
-    * The will need you email address to send the tif file
-* Method 2 **(Preferred)** - email the county clerk office with the deeds you require.  They will pull the deeds and send to you via email.  Don't forget to check you junk folder or Other tab(outlook) as their address is a gmail and might not get to your focused inbox.
+    * They will need your email address to send the tif file
+* Method 2 **(Preferred)** - email the county clerk office with the deeds you require.  They will pull the deeds and send to you via email.  Don't forget to check your junk folder or Other tab(outlook) as their address is a gmail and might not get to your focused inbox.
 
 |          |          |
 |----------|----------|
